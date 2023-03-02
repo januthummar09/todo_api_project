@@ -28,10 +28,10 @@ class _MyAppState extends State<MyApp> {
       title: "List Data Pass",
       child: const HomeScreen(),
     ),
-    Listitem(
-      title: "Map Data Pass",
-      child: const AliveScreen(),
-    ),
+    // Listitem(
+    //   title: "Map Data Pass",
+    //   child: const AliveScreen(),
+    // ),
   ];
   @override
   Widget build(BuildContext context) {
